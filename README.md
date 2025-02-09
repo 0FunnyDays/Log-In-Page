@@ -1,4 +1,3 @@
-@ -0,0 +1,12 @@
 Welcome to my Simple Login Page project! This is a small practice project where I am honing my skills in HTML and CSS. The goal of this project is to create a clean and responsive login page using only HTML and CSS, without any JavaScript or backend functionality.
 
 This project is purely for educational purposes and serves as a demonstration of my ability to structure and style a basic web page.
